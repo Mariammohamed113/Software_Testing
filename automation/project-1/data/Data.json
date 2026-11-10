@@ -1,0 +1,63 @@
+{
+  "homePage": {
+    "title": "Practice Software Testing - Toolshop - v5.0"
+  },
+
+  "loginPage": {
+    "loginUrl": "/auth/login",
+    "loginHeading": "Login",
+    "errorMessage": "Invalid email or password"
+  },
+
+  "registerPage": {
+    "registerUrl": "/auth/register",
+    "registerHeading": "Customer registration"
+  },
+
+  "accountPage": {
+    "accountUrl": "account"
+  },
+  
+  "profilePage": {
+  "profileUrl": "/account/profile",
+  "profileTitle": "Profile",
+  "successMessage": "successfully updated"
+  },
+
+  "favoritesPage": {
+    "favoritesUrl": "/account/favorites",
+    "favoritesTitle": "Favorites"
+  },
+
+  "productPage": {
+  "addedToFavoritesMessage": "Product added to your favorites list.",
+  "productName": "Thor Hammer"
+  },
+  
+
+  "registerUser": {
+    "firstName": "Mariam",
+    "lastName": "Mohamed",
+    "dob": "2003-03-11",
+    "street": "October Street",
+    "houseNumber": "12",
+    "postalCode": "12511",
+    "city": "Giza",
+    "state": "Giza",
+    "country": "EG",
+    "phone": "01141784431",
+    "emailPrefix": "mariam_test",
+    "password": "Qa#Tester2026!xz"
+  },
+
+  "updatedUser": {
+    "firstName": "Mariam Updated",
+    "lastName": "Ahmed",
+    "phone": "01098765432",
+    "street": "Abbas El Akkad",
+    "postalCode": "11765",
+    "city": "Cairo",
+    "state": "Cairo",
+    "country": "Egypt"
+  }
+}
